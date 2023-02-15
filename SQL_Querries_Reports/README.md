@@ -1,3 +1,5 @@
+The Sakila Movie Database is a SQL Database of online DVD Rentals. The database was queried to answer questions about business decisions
+
 In this project:
 
 I Extracted Data Using SQL QUERIES and Export to CSV
