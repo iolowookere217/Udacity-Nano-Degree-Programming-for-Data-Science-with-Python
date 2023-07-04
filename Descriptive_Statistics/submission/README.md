@@ -13,6 +13,9 @@ chicago.csv
 new_york_city.csv
 washington.csv
 
+### How to Use the Program
+Open the bikeshare.py file in a terminal and follow the prompt in the command line.
+
 ### Credits
 google.com, stack overflow, udacity supporting materials
 
